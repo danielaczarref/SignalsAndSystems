@@ -1,4 +1,4 @@
-# Sinais de Funções Lineares
+# Some Useful Signal Models
 
 ## Step Function
 
